@@ -1,0 +1,10 @@
+#these is the .log gile ignore all log files
+*.log
+
+#the node_modules file ignore node directories
+node_modules/
+
+#temp file ignore temporary files
+*.tmp  
+
+
